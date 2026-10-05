@@ -1,0 +1,15 @@
+class TaskStatus:
+
+    STARTING = "STARTING"
+
+    CODING = "CODING"
+
+    CODER_DONE = "CODER_DONE"
+
+    TESTING = "TESTING"
+
+    TEST_DONE = "TEST_DONE"
+
+    FAILED = "FAILED"
+
+    COMPLETED = "COMPLETED"
